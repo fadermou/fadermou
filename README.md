@@ -1,58 +1,54 @@
 # Hey there, I'm Ferdaous 👋
 
-Software engineering student at **1337 (42 Network)** within **UM6P** and currently working as a **Backend Developer Intern** at Mohammed VI Polytechnic University.
+Software engineering student at **1337 (42 Network)** within **UM6P**, currently learning and building projects across backend development, systems programming.
 
-I build stuff that works in production and try to make it scale properly. Currently deep into geospatial platforms, real-time systems, and DevOps.
+I enjoy working on practical projects that solve real problems. Currently exploring AI/ML, containerization, and building scalable applications.
 
 ## 🔭 What I'm working on
 
-**AFEOP** - A geospatial platform serving African researchers from MIT and UM6P for Earth observation data analysis. Built with Django, React, PostgreSQL/PostGIS, GeoServer, and deployed on Kubernetes with CI/CD pipelines via ArgoCD and Cloudflare Tunnel.
+Building personal projects to strengthen my skills in backend development, Docker, and AI integration. Recently completed a **RAG Document Assistant** using Django and OpenAI's API.
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Python, Django, Django REST Framework, Django Channels
-- C++ (systems programming, networking)
-- PostgreSQL, PostGIS
-- API REST design & implementation
+**Programming Languages**
+- C, C++ (systems programming)
+- Python, JavaScript
 
-**Frontend**
-- React, Redux
-- JavaScript, TypeScript
-- Responsive design, interactive mapping (Leaflet, ApexCharts)
+**Backend & Web Development**
+- Django, Django REST Framework
+- RESTful APIs
+- PostgreSQL
+- JWT Authentication
 
-**DevOps & Infrastructure**
-- Docker, Kubernetes (k3s)
-- CI/CD (GitHub Actions, ArgoCD)
-- Cloudflare Tunnel, SSL/TLS configuration
-- GitOps workflows
+**DevOps & Tools**
+- Docker, Docker Compose
+- Git, GitHub
+- Linux
+- Container networking & orchestration
 
-**Testing**
-- Jest (unit tests)
-- Cypress (end-to-end testing)
-- Test automation & coverage
-
-**Other stuff**
-- GeoServer, geospatial data processing
-- WebSockets, real-time communication
-- Git, Linux
+**AI/ML**
+- OpenAI GPT-4 API
+- RAG Systems
+- Qdrant (Vector Database)
+- Text Embeddings
 
 ## 🚀 Some projects I've built
 
-- **AFEOP**: Production geospatial platform with drought monitoring, soil moisture analysis, and interactive mapping. Comprehensive testing using Jest and Cypress
-- **IRC Server**: Built from scratch in C++ with real-time communication and WebSocket support
-- **Pong Multiplayer Game**: Real-time game using Django Channels and WebSockets
-- **RAG Document Assistant**: Built with OpenAI GPT, Qdrant vector database, and Django
+- **AI Document Assistant**: Retrieval-Augmented Generation system with Django, OpenAI GPT-4, and Qdrant vector database for document Q&A
+- **PingPongGame**: Multiplayer game with JavaScript frontend and Django backend featuring JWT authentication and real-time game state handling
+- **Inception**: Multi-container infrastructure from scratch using Docker and Docker Compose with Nginx (TLS), WordPress, and MariaDB
+- **CUB3D**: 3D game using raycasting techniques in C
+- **Minishell**: Custom shell implementation in C with process control and system call optimization
 
 ## 🌱 Currently learning
 
-Kubernetes orchestration, vector databases, and improving my testing strategies with automated test pipelines.
+Exploring more about AI/ML systems, improving my understanding of vector databases, and diving deeper into cloud technologies and containerization.
 
 ## 📫 Let's connect
 
-- LinkedIn: https://www.linkedin.com/in/ferdaous-adermouch-15510430b/
+- LinkedIn: [Ferdaous Adermouch](https://www.linkedin.com/in/ferdaous-adermouch-15510430b/)
 - Email: ferdaousader@gmail.com
 
 ---
 
-*Building things, breaking things, fixing things - repeat.*
+*Learning by building, one project at a time.*
